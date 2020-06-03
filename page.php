@@ -62,7 +62,7 @@
 			<div class="tab-margin">			
 			<h4 class="<?php echo $class;?>" id="tab-text">
             <?php
-			/** Titulo  */
+			/** Titulo */
 				the_title();			
 				
 			?>			
@@ -82,3 +82,4 @@
 <?php
 endwhile;
  get_footer();?>
+ /** Titulo */
